@@ -1,6 +1,6 @@
 public class Alumnos {
    int p;
-   int s;
+   int s = 1;
    
 
 }
